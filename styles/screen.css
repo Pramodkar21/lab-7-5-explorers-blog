@@ -82,3 +82,9 @@ img {
 a {
   color: #9BBCFF;
 }
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
