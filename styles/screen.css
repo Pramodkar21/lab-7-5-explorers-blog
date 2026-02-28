@@ -48,3 +48,37 @@ h1 strong {
 img.about {
     opacity: 0.5;
 }
+
+/* Space Theme Additions */
+h2, h3 {
+  color: #FFFFFF;
+  letter-spacing: 1px;
+}
+
+ul li a {
+  color: #FFD27F;
+}
+
+ul li a:hover {
+  color: #FFE8B3;
+}
+
+.stars {
+  text-align: center;
+  margin: 20px 0;
+  color: #FFD27F;
+  font-size: 1.4rem;
+}
+
+p {
+  line-height: 1.6;
+}
+
+img {
+  border-radius: 4px;
+  margin-top: 10px;
+}
+
+a {
+  color: #9BBCFF;
+}
